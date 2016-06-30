@@ -1,0 +1,31 @@
+{
+  "name": "tessel-core",
+  "version": "1.0.0",
+  "description": "tessel computes.io core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computes/tessel-core.git"
+  },
+  "keywords": [
+    "supercomputer",
+    "iot",
+    "tessel"
+  ],
+  "author": "Chris Matthieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/computes/tessel-core/issues"
+  },
+  "homepage": "https://github.com/computes/tessel-core#readme",
+  "dependencies": {
+    "ipfs-js": "0.0.9",
+    "lodash": "^4.13.1",
+    "request": "^2.72.0",
+    "socket.io-client": "^1.4.8",
+    "underscore": "^1.8.3"
+  }
+}
